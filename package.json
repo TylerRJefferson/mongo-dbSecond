@@ -1,0 +1,21 @@
+{
+  "name": "mongo-dbsecond",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mongo.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TylerRJefferson/mongo-dbSecond.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TylerRJefferson/mongo-dbSecond/issues"
+  },
+  "homepage": "https://github.com/TylerRJefferson/mongo-dbSecond#readme"
+}
