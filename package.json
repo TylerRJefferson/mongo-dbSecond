@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/TylerRJefferson/mongo-dbSecond/issues"
   },
-  "homepage": "https://github.com/TylerRJefferson/mongo-dbSecond#readme"
+  "homepage": "https://github.com/TylerRJefferson/mongo-dbSecond#readme",
+  "dependencies": {
+    "mongodb": "^4.10.0"
+  }
 }
